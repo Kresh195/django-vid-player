@@ -19,18 +19,21 @@ body {
 }
 
 .controls {
+  display: flex;
   position: relative;
   background-color: #000;
+  align-items: center;
 }
 
-.js-play-button {
-  border: none;
+.play-button {
+  width: 24px;
+  height: 20px;
   left: 0;
   bottom: 0;
   color: #fff;
   background-color: transparent;
 }
 
-.js-play-button:hover {
+.play-button:hover {
   cursor: pointer;
 }
