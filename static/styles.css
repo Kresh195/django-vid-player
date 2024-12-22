@@ -18,7 +18,11 @@ body {
   height: 100%;
 }
 
-js-play-button {
+.js-play-button {
   border: none;
+}
+
+.js-play-button:hover {
+  cursor: pointer;
 }
 
