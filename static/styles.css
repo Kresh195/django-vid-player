@@ -19,10 +19,18 @@ body {
 }
 
 .js-play-button {
+  position: absolute;
   border: none;
+  left: 0;
+  bottom: 0;
 }
 
 .js-play-button:hover {
   cursor: pointer;
+}
+
+.controls {
+  position: relative;
+  background-color: #000;
 }
 
