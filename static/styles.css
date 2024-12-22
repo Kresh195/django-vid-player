@@ -24,11 +24,11 @@ body {
 }
 
 .js-play-button {
-  position: absolute;
   border: none;
   left: 0;
   bottom: 0;
   color: #fff;
+  background-color: transparent;
 }
 
 .js-play-button:hover {
