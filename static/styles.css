@@ -11,9 +11,10 @@ body {
 #player {
   width: 800px;
   height: 600px;
+  box-shadow: 0 0 8px rgb(0, 0, 0, 0.85);
 }
 
-.js-video-container {
+.video-container {
   width: 100%;
   height: 100%;
 }
