@@ -54,3 +54,7 @@ button {
 .volume-button:hover {
   cursor: pointer;
 }
+
+button {
+  margin-right: 4px;
+}
