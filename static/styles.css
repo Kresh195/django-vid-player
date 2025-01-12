@@ -35,12 +35,16 @@ button {
   color: #fff;
   background-color: transparent;
   border: none;
+  height: 22px;
+  width: 27px;
 }
 
 .volume-button {
   color: #fff;
   background-color: transparent;
   border: none;
+  height: 22px;
+  width: 28px;
 }
 
 .play-button:hover {
