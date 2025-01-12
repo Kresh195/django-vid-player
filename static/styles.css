@@ -26,6 +26,11 @@ body {
   align-items: center;
 }
 
+button {
+  font-size: 17px;
+}
+
+
 .play-button {
   color: #fff;
   background-color: transparent;
