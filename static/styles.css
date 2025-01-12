@@ -46,3 +46,7 @@ button {
 .play-button:hover {
   cursor: pointer;
 }
+
+.volume-button:hover {
+  cursor: pointer;
+}
