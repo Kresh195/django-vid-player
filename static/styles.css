@@ -32,6 +32,12 @@ body {
   border: none;
 }
 
+.volume-button {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+}
+
 .play-button:hover {
   cursor: pointer;
 }
