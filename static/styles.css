@@ -24,6 +24,7 @@ body {
 .controls {
   background-color: #000;
   align-items: center;
+  display: flex;
 }
 
 button {
@@ -45,6 +46,13 @@ button {
   border: none;
   height: 22px;
   width: 28px;
+}
+
+.fullscreen-button {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  right: 0;
 }
 
 .play-button:hover {
