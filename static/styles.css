@@ -49,14 +49,12 @@ body {
   background-color: transparent;
   border: none;
   height: 22px;
-  /* width: 28px; */
 }
 
 .fullscreen-button {
   color: #fff;
   background-color: transparent;
   border: none;
-  right: 0;
 }
 
 .controls-gap {
