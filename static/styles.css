@@ -33,7 +33,7 @@ body {
 
 .player-button {
   font-size: 20px;
-  margin-right: 5px;
+  margin-right: 4px;
   margin-left: 4px;
   color: #fff
 }
@@ -65,9 +65,9 @@ body {
 }
 
 .current-time {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .duration {
-  font-size: 18px;
+  font-size: 16px;
 }
