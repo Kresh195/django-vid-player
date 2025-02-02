@@ -62,3 +62,11 @@ body {
 .controls-gap {
   flex-grow: 1;
 }
+
+.current-time {
+  font-size: 18px;
+}
+
+.duration {
+  font-size: 18px;
+}
