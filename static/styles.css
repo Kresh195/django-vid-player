@@ -71,3 +71,11 @@ body {
 .duration {
   font-size: 16px;
 }
+
+.progress-bar {
+  margin-left: 10px;
+  width: 100px;
+  height: 5px;
+  background-color: #f8104d;
+  border-radius: 3px;
+}
