@@ -74,8 +74,18 @@ body {
 
 .progress-bar {
   margin-left: 10px;
-  width: 100px;
+  width: 150px;
   height: 5px;
   background-color: #f8104d;
   border-radius: 3px;
+}
+
+.slider {
+  width: 7px;
+  height: 7px;
+  background-color: #f8104d;
+  border-radius: 50%;
+  border: 4px #fff solid;
+  margin-left: 120px;
+  margin-top: -4px;
 }
