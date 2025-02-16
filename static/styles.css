@@ -43,10 +43,6 @@ body {
   color: #fff
 }
 
-.player-button:hover {
-  cursor: pointer;
-}
-
 .play-button {
   background-color: transparent;
   border: none;
