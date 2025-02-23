@@ -61,7 +61,10 @@ body {
   margin-right: 4px;
 }
 
-.controls-gap {
+.time-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex-grow: 1;
 }
 
@@ -73,17 +76,19 @@ body {
 .duration {
   font-size: 16px;
   user-select: none;
+  display: flex;
 }
 
 .progress-bar {
   display: flex;
   margin-left: 10px;
   margin-right: 10px;
-  width: 150px;
+  width: auto;
   height: 5px;
   background-color: gray;
   border-radius: 3px;
   align-items: center;
+  flex-grow: 1;
 }
 
 .progress-slider {
